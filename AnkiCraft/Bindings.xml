@@ -1,0 +1,9 @@
+<Bindings>
+    <Binding name="ANKICRAFT_TOGGLE" category="BINDING_HEADER_ANKICRAFT">AnkiCraft_Toggle()</Binding>
+    <Binding name="ANKICRAFT_SHOW" category="BINDING_HEADER_ANKICRAFT">AnkiCraft_ShowAnswer()</Binding>
+    <Binding name="ANKICRAFT_AGAIN" category="BINDING_HEADER_ANKICRAFT">AnkiCraft_Answer(1)</Binding>
+    <Binding name="ANKICRAFT_HARD" category="BINDING_HEADER_ANKICRAFT">AnkiCraft_Answer(2)</Binding>
+    <Binding name="ANKICRAFT_GOOD" category="BINDING_HEADER_ANKICRAFT">AnkiCraft_Answer(3)</Binding>
+    <Binding name="ANKICRAFT_EASY" category="BINDING_HEADER_ANKICRAFT">AnkiCraft_Answer(4)</Binding>
+    <Binding name="ANKICRAFT_UNDO" category="BINDING_HEADER_ANKICRAFT">AnkiCraft_Undo()</Binding>
+</Bindings>

@@ -1,0 +1,20 @@
+## Interface: 16001
+## Title: |cff4fa3ffAnkiCraft|r
+## Notes: Review your Anki flashcards inside World of Warcraft. Syncs with Anki through the free AnkiCraft Bridge Anki add-on.
+## Author: RogerPR
+## Version: 1.0.0
+## IconTexture: Interface\Icons\INV_Misc_Book_09
+## SavedVariables: AnkiCraftDB
+## OptionalDeps: AnkiCraft_Data
+## X-License: MIT
+
+Core.lua
+Queue.lua
+Media.lua
+UI\Widgets.lua
+UI\Main.lua
+UI\Review.lua
+UI\Decks.lua
+UI\AddNote.lua
+UI\Options.lua
+UI\Minimap.lua

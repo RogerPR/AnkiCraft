@@ -1,0 +1,14 @@
+{
+    "wow_path": "",
+    "flavor": "_forever_",
+    "decks": [],
+    "max_cards_per_deck": 1000,
+    "max_total_cards": 5000,
+    "furigana": "brackets",
+    "media": true,
+    "image_max_size": 512,
+    "image_slots": 200,
+    "audio_slots": 200,
+    "auto_sync": true,
+    "poll_seconds": 3
+}
